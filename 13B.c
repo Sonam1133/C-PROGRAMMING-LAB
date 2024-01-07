@@ -1,3 +1,4 @@
+//Program for reading and writing the student marks data to files.
 #include <stdio.h>
 
 // Define the structure for student information
