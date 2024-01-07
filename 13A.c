@@ -1,3 +1,4 @@
+//Program to read and write in a file.
 #include <stdio.h>
 #include <stdlib.h>
 
