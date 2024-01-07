@@ -1,3 +1,4 @@
+//Program to store information of a student using union.
 #include <stdio.h>
 
 // Define the union for student information
