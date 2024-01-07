@@ -1,3 +1,4 @@
+//Program to implement an array of structures for student marks for each student and pass it to function for various operations.
 #include <stdio.h>
 
 // Define the structure for student information
